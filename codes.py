@@ -300,6 +300,7 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #6B7280; padding: 1rem;'>
     <p>Powered by Groq API • Built with Streamlit</p>
-    <p style='font-size: 0.875rem;'>Get your free Groq API key at <a href='https://console.groq.com' target='_blank'>console.groq.com</a></p>
+<div style='text-align: center'>
+    Built by <strong>Aayush Panchal</strong>
 </div>
 """, unsafe_allow_html=True)
